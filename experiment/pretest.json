@@ -28,7 +28,7 @@
 			"answers": {
 				"a": "User program",
 				"b": "Output image table",
-				"c": "Input image table".
+				"c": "Input image table",
 				"d": "All of these"
 			},
 			
@@ -39,7 +39,7 @@
 			"answers": {
 				"a": "Any state (either energised or de-enrgised)",
 				"b": "Energised state",
-				"c": "De-energised state"
+				"c": "De-energised state",
 				"d": "All of these"
 			},
 			
@@ -50,7 +50,7 @@
 			"answers": {
 				"a": "Total no. of inputs and outputs",
 				"b": "Programming method",
-				"c": "Program Length"
+				"c": "Program Length",
 				"d": "All of these"
 			},
 			

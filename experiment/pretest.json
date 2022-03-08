@@ -5,14 +5,11 @@
 			"answers": {
 				"a": "Processor speed and program length ",
 				"b": "I/O density",
-				"c": "Both the above"
+				"c": "None of these",
+				"d": "Both a and b"
 			},
-			"explanations": {
-				"a": "Explanation 1  <a href='www.google.com'>here</a>",
-				"b": "Explanation 2",
-				"c": "Explanation 2"
-			},
-			"correctAnswer": "c",
+			
+			"correctAnswer": "d",
 			"difficulty": "beginner"
 		},
 		{
@@ -20,13 +17,10 @@
 			"answers": {
 				"a": "At all times",
 				"b": "When entering the program",
-				"c": "When program is running"
+				"c": "When program is running",
+				"d": "When program is stopped"
 			},
-			"explanations": {
-				"a": "Explanation 1  <a href='www.google.com'>here</a>",
-				"b": "Explanation 2",
-				"c": "Explanation 2"
-			},
+			
 			"correctAnswer": "b",
 			"difficulty": "beginner"
 		}, {
@@ -34,13 +28,10 @@
 			"answers": {
 				"a": "User program",
 				"b": "Output image table",
-				"c": "Input image table"
+				"c": "Input image table".
+				"d": "All of these"
 			},
-			"explanations": {
-				"a": "Explanation 1  <a href='www.google.com'>here</a>",
-				"b": "Explanation 2",
-				"c": "Explanation 2"
-			},
+			
 			"correctAnswer": "a",
 			"difficulty": "beginner"
 		}, {
@@ -49,12 +40,9 @@
 				"a": "Any state (either energised or de-enrgised)",
 				"b": "Energised state",
 				"c": "De-energised state"
+				"d": "All of these"
 			},
-			"explanations": {
-				"a": "Explanation 1  <a href='www.google.com'>here</a>",
-				"b": "Explanation 2",
-				"c": "Explanation 2"
-			},
+			
 			"correctAnswer": "c",
 			"difficulty": "beginner"
 		}, {
@@ -63,12 +51,9 @@
 				"a": "Total no. of inputs and outputs",
 				"b": "Programming method",
 				"c": "Program Length"
+				"d": "All of these"
 			},
-			"explanations": {
-				"a": "Explanation 1  <a href='www.google.com'>here</a>",
-				"b": "Explanation 2",
-				"c": "Explanation 2"
-			},
+			
 			"correctAnswer": "b",
 			"difficulty": "beginner"
 		}

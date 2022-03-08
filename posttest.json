@@ -1,0 +1,60 @@
+{
+	"version": 2.0,
+	"questions": [{
+			"question": "The logical AND function is similar to:",
+			"answers": {
+				"a": "Combination of series- parallel contacts ",
+				"b": "Contacts in parallel",
+				"c": "Contacts in series",
+				"d": "None of these"
+			},
+			
+			"correctAnswer": "c",
+			"difficulty": "beginner"
+		},
+		{
+			"question": "The logical OR function is similar to:",
+			"answers": {
+				"a": "Contacts in parallel",
+				"b": "Contacts in series",
+				"c": "Combination of series- parallel contacts",
+				"d": "None of these"
+			},
+			
+			"correctAnswer": "a",
+			"difficulty": "beginner"
+		}, {
+			"question": "Which of the following logic operators are available in PLC?",
+			"answers": {
+				"a": "AND, OR",
+				"b": "NOT",
+				"c": "All of the above",
+				"d": "None of these"
+			},
+			
+			"correctAnswer": "c",
+			"difficulty": "beginner"
+		}, {
+			"question": "What is the output of NOR block if any one of the input is high or active or true?",
+			"answers": {
+				"a": "1",
+				"b": "0",
+				"c": "Can’t say"
+			},
+			
+			"correctAnswer": "b",
+			"difficulty": "beginner"
+		}, {
+			"question": "What is the output of NAND block if any one of the two inputs is high or active or true?",
+			"answers": {
+				"a": "1",
+				"b": "0",
+				"c": "Can’t say"
+			},
+			
+			"correctAnswer": "a",
+			"difficulty": "beginner"
+		}
+
+	]
+}

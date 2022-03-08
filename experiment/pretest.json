@@ -1,39 +1,76 @@
 {
-  "version": 2.0,
-  "questions": [
-    {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    }
-  ]
+	"version": 2.0,
+	"questions": [{
+			"question": "The scan time of PLC depends upon:",
+			"answers": {
+				"a": "Processor speed and program length ",
+				"b": "I/O density",
+				"c": "Both the above"
+			},
+			"explanations": {
+				"a": "Explanation 1  <a href='www.google.com'>here</a>",
+				"b": "Explanation 2",
+				"c": "Explanation 2"
+			},
+			"correctAnswer": "c",
+			"difficulty": "beginner"
+		},
+		{
+			"question": "The programming device must be connected to the controller",
+			"answers": {
+				"a": "At all times",
+				"b": "When entering the program",
+				"c": "When program is running"
+			},
+			"explanations": {
+				"a": "Explanation 1  <a href='www.google.com'>here</a>",
+				"b": "Explanation 2",
+				"c": "Explanation 2"
+			},
+			"correctAnswer": "b",
+			"difficulty": "beginner"
+		}, {
+			"question": "The ----- will account for the most of the total memory of a given PLC program.",
+			"answers": {
+				"a": "User program",
+				"b": "Output image table",
+				"c": "Input image table"
+			},
+			"explanations": {
+				"a": "Explanation 1  <a href='www.google.com'>here</a>",
+				"b": "Explanation 2",
+				"c": "Explanation 2"
+			},
+			"correctAnswer": "a",
+			"difficulty": "beginner"
+		}, {
+			"question": "While developing the ladder program the contacts are in:",
+			"answers": {
+				"a": "Any state (either energised or de-enrgised)",
+				"b": "Energised state",
+				"c": "De-energised state"
+			},
+			"explanations": {
+				"a": "Explanation 1  <a href='www.google.com'>here</a>",
+				"b": "Explanation 2",
+				"c": "Explanation 2"
+			},
+			"correctAnswer": "c",
+			"difficulty": "beginner"
+		}, {
+			"question": "Which of the following is not a factor in determining the total scan time of a PLC:",
+			"answers": {
+				"a": "Total no. of inputs and outputs",
+				"b": "Programming method",
+				"c": "Program Length"
+			},
+			"explanations": {
+				"a": "Explanation 1  <a href='www.google.com'>here</a>",
+				"b": "Explanation 2",
+				"c": "Explanation 2"
+			},
+			"correctAnswer": "b",
+			"difficulty": "beginner"
+		}
+	]
 }

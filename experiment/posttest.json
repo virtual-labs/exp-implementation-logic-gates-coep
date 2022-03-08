@@ -5,14 +5,10 @@
 			"answers": {
 				"a": "Combination of series- parallel contacts ",
 				"b": "Contacts in parallel",
-				"c": "Contacts in series"
+				"c": "Contacts in series",
+				"d": "None of these"
 			},
-			"explanations": {
-				"a": "Explanation 1  <a href='www.google.com'>here</a>",
-				"b": "Explanation 2",
-				"c": "Explanation 2"
-
-			},
+			
 			"correctAnswer": "c",
 			"difficulty": "beginner"
 		},
@@ -21,14 +17,10 @@
 			"answers": {
 				"a": "Contacts in parallel",
 				"b": "Contacts in series",
-				"c": "Combination of series- parallel contacts"
+				"c": "Combination of series- parallel contacts",
+				"d": "None of these"
 			},
-			"explanations": {
-				"a": "Explanation 1  <a href='www.google.com'>here</a>",
-				"b": "Explanation 2",
-				"c": "Explanation 2"
-
-			},
+			
 			"correctAnswer": "a",
 			"difficulty": "beginner"
 		}, {
@@ -36,15 +28,10 @@
 			"answers": {
 				"a": "AND, OR",
 				"b": "NOT",
-				"c": "All of the above"
-
+				"c": "All of the above",
+				"d": "None of these"
 			},
-			"explanations": {
-				"a": "Explanation 1  <a href='www.google.com'>here</a>",
-				"b": "Explanation 2",
-				"c": "Explanation 2"
-
-			},
+			
 			"correctAnswer": "c",
 			"difficulty": "beginner"
 		}, {
@@ -52,15 +39,9 @@
 			"answers": {
 				"a": "1",
 				"b": "0",
-				"c": "Can’t say"
-
+				"c": "Canâ€™t say"
 			},
-			"explanations": {
-				"a": "Explanation 1  <a href='www.google.com'>here</a>",
-				"b": "Explanation 2",
-				"c": "Explanation 2"
-
-			},
+			
 			"correctAnswer": "b",
 			"difficulty": "beginner"
 		}, {
@@ -68,15 +49,9 @@
 			"answers": {
 				"a": "1",
 				"b": "0",
-				"c": "Can’t say"
-
+				"c": "Canâ€™t say"
 			},
-			"explanations": {
-				"a": "Explanation 1  <a href='www.google.com'>here</a>",
-				"b": "Explanation 2",
-				"c": "Explanation 2"
-
-			},
+			
 			"correctAnswer": "a",
 			"difficulty": "beginner"
 		}

@@ -1,17 +1,15 @@
 #### Books:
-1. Gary Dunning, ìIntroduction Programmable Logic Controllersî, CENGAGE Learning, 3rd Ed., 2006.î
+1. Gary Dunning, ‚ÄúIntroduction Programmable Logic Controllers‚Äù, CENGAGE Learning, 3rd Ed., 2006.‚Äù
 
-2. John R. Hackworth, Frederick D. Hackworth Jr., ìProgrammable Logic Controllers î, Pearson, 2004.î
+2. John R. Hackworth, Frederick D. Hackworth Jr., ‚ÄúProgrammable Logic Controllers ‚Äù, Pearson, 2004.‚Äù
 
-3. W.Bolton, ìProgrammable Logic Controllersî, Elsevier, 4th Ed., 2006.
+3. W.Bolton, ‚ÄúProgrammable Logic Controllers‚Äù, Elsevier, 4th Ed., 2006.
 
 4. Leach Malvino ," Digital principles and application 
 
 5. Bouwens," Digital Instrumentation "
 
-6. David Bell," Solid state pulse circuits î
+6. David Bell," Solid state pulse circuits ‚Äù
 #### Useful links:
-1.   http://www.plcdev.com/book/export/html/9    
-2.  http://www.plcmanual.com/
-3. http://literature.rockwellautomation.com/
-4. http://www.automation.siemens.com/
+- [https://literature.rockwellautomation.com](https://literature.rockwellautomation.com/)
+- [https://www.automation.siemens.com](https://www.automation.siemens.com/)
